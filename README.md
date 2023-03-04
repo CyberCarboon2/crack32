@@ -1,5 +1,5 @@
 <h1 align="center">
-  crackFB
+  crack32
 </h1>
 </div>
 <p align="center">
@@ -38,19 +38,6 @@ crack32 Ini Pada Perangkat 32-bit
 ```About Cyber ​​Security```
 ```It's Not The Tool's Author's Responsibility!!```
 
-## License Free
-<img src="https://github.com/CyberCarboon2/FileServer/blob/main/lisensi.jpg" width="450" title="License Free" alt="License Free">
-<li>
- In this section you must take the license
- on the web listed in the script
-</li>
-<li>
- Di Bagian Ini Anda Harus Mengambil Lisensi
- Pada Web Yang Tertera Di Script
-<li>
-or / atau
-
-👉🏻 [Get License](https://s.id/LicenseFree) 👈🏻
 
 ## Result
 <img src="https://github.com/CyberCarboon2/FileServer/blob/main/resultcrackFB.jpg" width="450" title="Result" alt="Result">
@@ -71,7 +58,7 @@ $ pip install user-agent2
 $ git clone https://github.com/CyberCarboon2/crack32
 $ ls
 $ cd crack32
-$ python Run.py
+$ python crack32.py
 ```
 ## Or Use This Single Command
 ```ruby
@@ -85,7 +72,7 @@ $ git clone https://github.com/CyberCarboon2/crack32
 $ cd crack32
 $ ls
 $ git pull
-$ python Run.py
+$ python crack32.py
 ```
 ## Total Profile Visits
 <br><p align='center'><img src="https://komarev.com/ghpvc/?username=CyberCarboon2&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="CyberCarboon2" />
